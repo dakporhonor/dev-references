@@ -36,3 +36,6 @@ https://github.com/jordan-cutler/path-to-senior-engineer-handbook
 
 ## Awesome Compose
 https://github.com/docker/awesome-compose
+
+## Hugging Face. AI Communuty
+https://huggingface.co/

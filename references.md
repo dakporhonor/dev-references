@@ -33,3 +33,6 @@ https://github.com/total-typescript/advanced-patterns-workshop
 ## Path to senior engineer handbook
 
 https://github.com/jordan-cutler/path-to-senior-engineer-handbook
+
+## Awesome Compose
+https://github.com/docker/awesome-compose

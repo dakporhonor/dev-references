@@ -39,3 +39,12 @@ https://github.com/docker/awesome-compose
 
 ## Hugging Face. AI Communuty
 https://huggingface.co/
+
+## Free learning resources in many languages
+https://github.com/EbookFoundation/free-programming-books
+
+## System design
+https://github.com/systemdesign42/system-design
+
+## Developer roadmap
+https://github.com/kamranahmedse/developer-roadmap
